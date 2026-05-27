@@ -1,0 +1,5 @@
+Realizar las siguientes modificaciones:
+1. Agregar tu nombre completo en el archivo presentacion.txt
+2. Agregar tu carrera y fecha
+3. Subir una imagen que te represente
+4. Modificar el README.md agregando la imagen subida
